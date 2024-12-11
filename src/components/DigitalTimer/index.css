@@ -39,12 +39,11 @@
     font-size: 44px;
   }
 }
-.digital-timer-container{
+.digital-timer-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 90%;
-
 }
 @media screen and (min-width: 768px) {
   .digital-timer-container {
